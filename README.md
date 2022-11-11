@@ -1,4 +1,4 @@
-# Cheat Sheet for Data Analysts
+# Cheat Sheet for Data Analytics
 
 
 
